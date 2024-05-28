@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    box-shadow: 10px 10px 12px gray;
+    border: 2px solid black;
+    box-shadow: 10px 10px 12px grey;
+}
+#one{
+    height: 100px;
+    background-color: bisque;
+    text-align: center;
+    padding: 20px;
+}
+#two a{
+    text-decoration: none;
+    color: black;
+}
+#three .col-3{
+    background-color: rgb(96, 245, 245);
+    border-radius: 10%;
+    box-shadow: 5px 10px 5px rgb(29, 60, 235);
+}
+
+#four{
+    height: 50px;
+    text-align: end;
+    background-color: blanchedalmond;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
